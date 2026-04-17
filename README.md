@@ -65,7 +65,7 @@ Berikut adalah perangkat keras (*hardware*) yang digunakan dalam merangkai siste
 
 ## Board Schematic
 
-![Board Schematic](https://github.com/RaflyOlanda/posttest2-praktikum-iot-unmul-2026/blob/main/skematik%20pt2.jpeg)
+![Board Schematic](https://github.com/RaflyOlanda/posttest3-praktikum-iot-unmul-2026/blob/main/iot%20kodular.jpeg)
 
 ---
 
