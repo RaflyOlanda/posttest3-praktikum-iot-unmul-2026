@@ -73,4 +73,4 @@ Berikut adalah perangkat keras (*hardware*) yang digunakan dalam merangkai siste
 
 Berikut adalah video demonstrasi yang menampilkan bentuk fisik rangkaian serta pengujian *real-time* menggunakan aplikasi Kodular.
 
-*(Tambahkan link video di sini)*
+**Tonton Video Demo di YouTube:** [**[KLIK DI SINI UNTUK MENONTON]**](https://youtu.be/8Cw4a3oROu4?si=FdDJieU98jTpYwBq)
